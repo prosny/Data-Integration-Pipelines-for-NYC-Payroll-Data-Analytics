@@ -1,0 +1,9 @@
+{
+	"name": "adf-sina-nafeiyazdi",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e73cd676-da64-40e0-a5b2-ab4d12596221",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
